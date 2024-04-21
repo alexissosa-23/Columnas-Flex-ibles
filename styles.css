@@ -1,0 +1,28 @@
+.row {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.col {
+    flex: 1;
+    padding: 20px;
+    background-color: rgba(0, 255, 255, 0.699);
+    text-align: center;
+    margin: 5px;
+}
+
+.col-2 {
+    flex: 2;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 255, 255, 0.699);
+    margin: 5px;
+}
+
+.col-3 {
+    flex: 3;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 255, 255, 0.699);
+    margin: 5px;
+}
